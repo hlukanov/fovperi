@@ -73,4 +73,12 @@ python main.py --model=[imagenet|core50] --task=test
 *[to be added]*
 
 ## Cite the paper
-*[to be added]*
+@article{lukanov2021biologically,
+  title={Biologically Inspired Deep Learning Model for Efficient Foveal-Peripheral Vision},
+  author={Lukanov, Hristofor and K{\"o}nig, Peter and Pipa, Gordon},
+  journal={Frontiers in Computational Neuroscience},
+  volume={15},
+  pages={746204},
+  year={2021},
+  publisher={Frontiers Media SA}
+}
